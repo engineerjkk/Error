@@ -9,3 +9,7 @@ E: 소스 목록 /etc/apt/sources.list.d/sublime-text.list의 1번 줄의 '"deb'
 
 https://davelogs.tistory.com/54
 
+
+2. pip install opencv-python-headless
+
+3. sudo chmod 777 /dev/ttyUSB0
