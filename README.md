@@ -21,3 +21,9 @@ https://davelogs.tistory.com/54
 ## GPU로 학습 돌리기
 https://towardsdatascience.com/implementing-alexnet-cnn-architecture-using-tensorflow-2-0-and-keras-2113e090ad98    
 주의할점 : 완전 버전똑같이하기, miniconda3 같은 경로도 완전 똑같이하기!  
+
+
+12.27
+## 드라이버 설치 안될 때
+- sudo apt install libnvidia-gl-495 
+- sudo apt install nvidia-driver-495 
