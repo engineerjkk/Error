@@ -27,3 +27,7 @@ https://towardsdatascience.com/implementing-alexnet-cnn-architecture-using-tenso
 ## 드라이버 설치 안될 때
 - sudo apt install libnvidia-gl-495 
 - sudo apt install nvidia-driver-495 
+
+12.31
+## placeholder 안될 때 -> 버전 1.X 로 바꿔줘야함
+- https://gmnam.tistory.com/159
